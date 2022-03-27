@@ -3,7 +3,7 @@
 
 Download repo
 
-    git clone https://github.com/jraihan-me/change_php_cli_v.git
+    git clone https://github.com/jraihan-me/change_php_cli_v/blob/main/change_php_v_in_cli.sh
 
 Run this
 
